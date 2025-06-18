@@ -1,4 +1,4 @@
-//fteching weather data
+//fetching weather data
 
 import java.io.IOException;
 
